@@ -19,7 +19,7 @@ Business analysis methodologies and stakeholder-driven problem solving
 I’ve worked remotely as a Software Developer and also have a hands on AI Business Analysis, focusing on how AI, data, and automation can create measurable business value not just demos.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [saich-systems (Jack Of All Trades 😎)](http://https://saich-systems-f7kwdjk6rpvm5bll.builder-preview.com/)
+* 🖥️  See my portfolio at [saich-systems (Jack Of All Trades 😎)](https://saich-systems-f7kwdjk6rpvm5bll.builder-preview.com/)
 * ✉️  You can contact me at [saicharan8999@gmail.com](mailto:saicharan8999@gmail.com)
 * 🚀  I'm currently working on [TempleTrails - A journal for Temples](http://https://templetrails.feelens.in/)
 * 🧠  I'm currently learning Agentic AI Automations workflows, Advance Power BI and SaaS Web Apps Building
